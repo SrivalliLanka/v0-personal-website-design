@@ -44,10 +44,10 @@ export function Header() {
               Skills
             </button>
             <button
-              onClick={() => scrollToSection("contact")}
+              onClick={() => scrollToSection("feedback")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Contact
+              Feedback
             </button>
           </nav>
 
@@ -80,10 +80,10 @@ export function Header() {
                 Skills
               </button>
               <button
-                onClick={() => scrollToSection("contact")}
+                onClick={() => scrollToSection("feedback")}
                 className="text-left text-foreground hover:text-primary transition-colors"
               >
-                Contact
+                Feedback
               </button>
             </div>
           </nav>
