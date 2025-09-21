@@ -18,11 +18,11 @@ export function HeroSection() {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-balance">
-                Hi, I'm <span className="text-primary">Sarah Johnson</span>
+                Hi, I'm <span className="text-primary">Srivalli Lanka</span>
               </h1>
-              <h2 className="text-xl sm:text-2xl text-muted-foreground font-medium">Web Developer & Designer</h2>
+              <h2 className="text-xl sm:text-2xl text-muted-foreground font-medium">UIUC MSIM Student</h2>
               <p className="text-lg text-muted-foreground text-pretty max-w-lg">
-                I create beautiful, functional websites that help businesses grow and connect with their audiences.
+                I am a passionate individual with an interest in Data Science and Analytics field.
               </p>
             </div>
 
@@ -44,8 +44,8 @@ export function HeroSection() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
                 <Image
-                  src="/professional-headshot-of-a-friendly-web-developer.jpg"
-                  alt="Sarah Johnson - Professional Photo"
+                  src="/images/srivalli-headshot.jpg"
+                  alt="Srivalli Lanka - Professional Photo"
                   width={300}
                   height={300}
                   className="rounded-full object-cover"
